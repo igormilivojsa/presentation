@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9cdfc8f8-77a8-4cdc-b660-5fd2a97f4c01" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../chat/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/app/Console/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/app/Exceptions/Handler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/app/Http/Controllers/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/app/Http/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/app/Http/Middleware/Authenticate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/app/Http/Middleware/EncryptCookies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/app/Http/Middleware/PreventRequestsDuringMaintenance.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/app/Http/Middleware/TrimStrings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/app/Http/Middleware/TrustHosts.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/app/Http/Middleware/TrustProxies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/app/Http/Middleware/ValidateSignature.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/app/Models/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/app/Providers/AppServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/app/Providers/AuthServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/app/Providers/BroadcastServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/app/Providers/EventServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/app/Providers/RouteServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/artisan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/bootstrap/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/bootstrap/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/config/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/config/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/config/broadcasting.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/config/cache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/config/cors.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/config/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/config/filesystems.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/config/hashing.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/config/logging.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/config/mail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/config/queue.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/config/sanctum.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/config/services.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/config/session.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/config/view.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/database/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/database/factories/UserFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/database/migrations/2014_10_12_100000_create_password_reset_tokens_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/database/seeders/DatabaseSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/public/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/resources/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/resources/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/resources/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/routes/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/routes/channels.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/routes/console.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/routes/web.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/storage/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/storage/app/public/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/storage/framework/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/storage/framework/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/storage/framework/cache/data/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/storage/framework/sessions/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/storage/framework/testing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/storage/framework/views/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/storage/logs/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/tests/CreatesApplication.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/tests/Feature/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/tests/TestCase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/tests/Unit/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/app/Console/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/app/Exceptions/Handler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/app/Http/Controllers/AuthController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/app/Http/Controllers/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/app/Http/Controllers/ProductController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/app/Http/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/app/Http/Middleware/Authenticate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/app/Http/Middleware/EncryptCookies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/app/Http/Middleware/PreventRequestsDuringMaintenance.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/app/Http/Middleware/TrimStrings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/app/Http/Middleware/TrustHosts.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/app/Http/Middleware/TrustProxies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/app/Http/Middleware/ValidateSignature.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/app/Models/Product.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/app/Models/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/app/Providers/AppServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/app/Providers/AuthServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/app/Providers/BroadcastServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/app/Providers/EventServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/app/Providers/RouteServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/artisan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/bootstrap/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/bootstrap/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/config/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/config/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/config/broadcasting.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/config/cache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/config/cors.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/config/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/config/filesystems.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/config/hashing.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/config/logging.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/config/mail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/config/queue.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/config/sanctum.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/config/services.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/config/session.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/config/view.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/database/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/database/factories/UserFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/database/migrations/2023_01_19_143846_create_products_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/database/seeders/DatabaseSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/lang/en/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/lang/en/pagination.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/lang/en/passwords.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/lang/en/validation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/public/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/resources/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/resources/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/resources/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/routes/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/routes/channels.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/routes/console.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/routes/web.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/storage/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/storage/app/public/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/storage/framework/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/storage/framework/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/storage/framework/cache/data/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/storage/framework/sessions/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/storage/framework/testing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/storage/framework/views/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/storage/logs/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/tests/CreatesApplication.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/tests/Feature/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/tests/TestCase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/tests/Unit/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-sanctum-api/vite.config.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2YncZkiBRajO1ajN5MoXac4JncV" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/igor/Projects/simple-presentation",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cdfc8f8-77a8-4cdc-b660-5fd2a97f4c01" name="Changes" comment="" />
+      <created>1701164842388</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701164842388</updated>
+      <workItem from="1701164843533" duration="1654000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
